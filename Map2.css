@@ -1,0 +1,16 @@
+html, body {
+	height: 100%;
+}
+
+#map {
+	height: 95%;
+}
+
+#geometryType {
+	float:left;
+}
+
+.inputColor {
+    float: left;
+	margin-left: 1%;
+}
